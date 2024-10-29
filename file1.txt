@@ -1,3 +1,6 @@
 this is file 1
 edited by master
 conflict master
+shahid is editing1
+edited by master
+edited by shahid
